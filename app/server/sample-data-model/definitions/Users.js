@@ -35,6 +35,24 @@ defineUsers = function() {
       password: "foo",
       uhEmail: "achriste@hawaii.edu",
       role: RadGrad.role.student
+    },
+    {
+      firstName: "Kyle",
+      middleName: "",
+      lastName: "Abear",
+      slug: "kyleabear",
+      password: "foo",
+      uhEmail: "kabear@hawaii.edu",
+      role: RadGrad.role.student
+    },
+    {
+      firstName: "Brian",
+      middleName: "",
+      lastName: "Young",
+      slug: "brianyoung",
+      password: "foo",
+      uhEmail: "byoung@hawaii.edu",
+      role: RadGrad.role.student
     }
   ];
 
